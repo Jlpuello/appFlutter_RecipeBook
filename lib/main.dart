@@ -22,7 +22,7 @@ class Myapp extends StatelessWidget {
         //// GlobalCupertinoLocalizations.delegate,
         //],
         debugShowCheckedModeBanner: false,
-        title: 'Hola mundo simple',
+        title: 'RecipeBook',
         home: RecipeBook(),
       ),
     );
